@@ -1,2 +1,3 @@
-# weather-forecasting
-Weather Forecasting in Python with LSTM neural network.
+Dataset found at
+
+https://www.kaggle.com/api/v1/datasets/download/mnassrib/jena-climate?dataset_version_number=1
